@@ -3,4 +3,5 @@ This repository demonstrates the Micro Frontend Architecture (MFE) approach to b
 
 ### Technologies Used
 JavaScript
+
 React.js
