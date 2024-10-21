@@ -5,3 +5,5 @@ This repository demonstrates the Micro Frontend Architecture (MFE) approach to b
 JavaScript
 
 React.js
+
+Vue.js
